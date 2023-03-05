@@ -1,4 +1,4 @@
-class CatsApi {
+1111111class CatsApi {
 constructor(apiName) {
     this.url = `https://cats.petiteweb.dev/api/single/${apiName}`
 }
